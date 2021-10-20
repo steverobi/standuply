@@ -2,23 +2,18 @@
 	"ok": true,
 	"items": [{
 			"id": 1,
-			"name": "Task 1 - W-9692664 Unit Test Coverage: runtime_cdp.dataStreamAddEventsAction (updated, requires SPs)",
+			"name": "W-9692664 Unit Test Coverage: runtime_cdp.dataStreamAddEventsAction. This story was updated to determine approach so requires story point estimate",
 			"url": "https://gus.my.salesforce.com/apex/ADM_WorkLocator?bugorworknumber=W-9692664"
 		},
 		{
 			"id": 2,
-			"name": "Task 2 - W-9933040 Automate WebSDK -> Deploy and schedule CDP E2E flow (WebSDK automation part III)",
-			"url": "https://gus.my.salesforce.com/apex/ADM_WorkLocator?bugorworknumber=W-9933040"
+			"name": "W-9944582 Automate WebSDK -> Set up vault for credential storage. With Matt's recent story currently in review, I suspect that this must happen next",
+			"url": "https://gus.my.salesforce.com/apex/ADM_WorkLocator?bugorworknumber=W-9944582"
 		},
 		{
 			"id": 3,
-			"name": "Task 3 - W-9993704 Setup CI/CD Pipelines for android & ios builds",
-			"url": "https://gus.my.salesforce.com/apex/ADM_WorkLocator?bugorworknumber=W-9993704"
-		},
-		{
-			"id": 4,
-			"name": "Task 4 - W-9944582 Automate WebSDK -> Set up vault for credential storage",
-			"url": "https://gus.my.salesforce.com/apex/ADM_WorkLocator?bugorworknumber=W-9944582"
+			"name": "W-9933040 Automate WebSDK -> Deploy and schedule CDP E2E flow (WebSDK automation part III)",
+			"url": "https://gus.my.salesforce.com/apex/ADM_WorkLocator?bugorworknumber=W-9933040"
 		}
 	]
 }
