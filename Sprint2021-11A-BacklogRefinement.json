@@ -15,6 +15,6 @@
          "id":3,
          "name":"Task 3 - W-9993704 Setup CI/CD Pipelines for android & ios builds",
          "url":"https://gus.my.salesforce.com/apex/ADM_WorkLocator?bugorworknumber=W-9993704"
-      },
+      }
    ]
 }
